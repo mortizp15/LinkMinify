@@ -28,6 +28,4 @@ Si te ha gustado mi proyecto y quieres comentarme alguna mejora, crítica constr
 - LinkedIn: [manuel-ortiz-4ba1442a1](https://www.linkedin.com/in/manuel-ortiz-4ba1442a1/)
 - Gmail: [maortizpelegrin@gmail.com](mailto:maortizpelegrin@gmail.com)
 
-## Licencia 👮‍♂️
-Este proyecto se distribuye bajo la Licencia MIT, permitiendo su uso, copia, modificación y distribución libremente para cualquier propósito.
 
